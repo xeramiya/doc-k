@@ -10,6 +10,6 @@ DocumentのためのDock、**Doc-K**
 
 <div align="right">
 <a href="https://www.xeramiya.net">
-<img src="https://raw.githubusercontent.com/xeramiya/xeramiya/main/assets/xeramiya.svg" width=4em height=4em alt="Xeramiya Logo" />
+<img src="https://raw.githubusercontent.com/xeramiya/xeramiya/main/assets/xeramiya.svg" width=8% alt="Xeramiya Logo" />
 </a>
 </div>
