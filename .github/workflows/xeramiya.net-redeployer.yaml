@@ -1,0 +1,7 @@
+name: xeramiya.net Redeployer
+on: [push]
+jobs:
+  vercel-redeploy:
+    runs-on:
+    steps:
+      - run: curl -X POST ${{vars.VERCEL_DEPLOY_HOOK_URL}}
